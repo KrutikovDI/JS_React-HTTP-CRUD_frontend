@@ -1,0 +1,1 @@
+export const URL_TO_SERVER = 'http://localhost:7071/notes'
